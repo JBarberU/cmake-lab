@@ -1,6 +1,6 @@
 #include "Bar.hpp"
 
-#include <Foo/Foo.hpp>
+#include <Foo.hpp>
 
 Bar::Bar()
 {
